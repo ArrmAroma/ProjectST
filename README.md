@@ -46,3 +46,8 @@ cd frontend
 npm start
 ```
 
+### frondend 
+--> ไฟล์frontend push ไม่มา สามารถดาวน์โหลดได้ที่ githubนี้
+```bash
+https://github.com/ArrmAroma/frontend.git
+```
